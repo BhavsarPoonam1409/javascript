@@ -3,7 +3,7 @@
 This repository contains my daily JavaScript practice code and learning journey.
 
 ## Topics Covered
-- Variables and Data Types ✅ 24 may 2026
+- Variables and Data Types ✅ 23 may 2026
 - Operators
 - Loops
 - Arrays
